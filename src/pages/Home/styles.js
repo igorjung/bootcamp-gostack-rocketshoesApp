@@ -4,6 +4,7 @@ import { darken } from 'polished';
 export const Container = styled.View`
   background: #191920;
   flex: 1;
+  flex-direction: row;
 `;
 
 export const Product = styled.View`
